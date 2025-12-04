@@ -37,7 +37,7 @@
 <br>
 <div align=center>
   <a href="#" title="Cychipo">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=cychipo&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D](https://github-readme-streak-stats.herokuapp.com/?user=cychipo&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)" />
+    <img align="center" src="https://github-readme-stats-rosy-sigma-66.vercel.app/api?username=cychipo&show_icons=true&theme=radical" />
   </a>
 </div>
 <br>
