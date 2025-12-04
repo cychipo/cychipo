@@ -27,8 +27,8 @@
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,html,css,javascript,typescript,git,photoshop,ai,pr,xd" />
-    <img src="https://skillicons.dev/icons?i=mui,python,vscode,github,express,firebase,npm,java,threejs,vercel,blender,cloudflare" /><br>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,javascript,typescript,git,nestjs,python,docker,vuejs,nuxtjs,vite,babel,prisma" />
+    <img src="https://skillicons.dev/icons?i=mui,vscode,github,express,firebase,npm,java,vercel,cloudflare,aws,ubuntu,mongodb,postgresql,mysql,notion," /><br>
 </div>
 
 <br />
